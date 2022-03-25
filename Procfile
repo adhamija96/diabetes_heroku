@@ -1,1 +1,1 @@
-web:gunicorn appdia:app
+web: gunicorn appdia:app
